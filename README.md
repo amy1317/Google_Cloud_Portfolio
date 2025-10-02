@@ -1,6 +1,3 @@
-# Google_Cloud_Digital_Leader_Portfolio
-
-This follows markdown best practices for technical project documentation: clear structure, headings, tables for navigation, and section breaks for readability.9][10][11].```markdown
 # Google Cloud Digital Leader Hands-On Labs Portfolio
 
 This repository contains a complete set of hands-on labs for the Udemy "Google Cloud Digital Leader Certification" course. Each lab folder documents tasks, commands, outputs, and provides screenshots for verification and portfolio presentation.
